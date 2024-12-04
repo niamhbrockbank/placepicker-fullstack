@@ -1,9 +1,11 @@
 > **Note**  
-> Extension to [placepicker](https://github.com/niamhbrockbank/placepicker) project which also uses a backend and custom React Hooks.
+> Extension to [placepicker](https://github.com/niamhbrockbank/placepicker) project.
 
 ## Introduction
 
 This app allows a user to choose places from a (pre-built) backend to add to their To Visit list. This project is written in React, and initialised with Vite.
+
+This app extends [placepicker](https://github.com/niamhbrockbank/placepicker) with a backend and custom React Hooks.
 
 ## Getting Started
 
